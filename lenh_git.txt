@@ -1,0 +1,7 @@
+echo "# Le-Minh-Long-B24DCCC184---TH-WEB" >> README.md   //tạo repo mới bằng lệnh
+git init 
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Mlongkk/Le-Minh-Long-B24DCCC184---TH-WEB.git
+git push -u origin main
